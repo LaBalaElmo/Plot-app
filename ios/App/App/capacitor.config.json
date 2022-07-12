@@ -1,0 +1,6 @@
+{
+	"appId": "com.tordoya.plottingapp",
+	"appName": "PlottingApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

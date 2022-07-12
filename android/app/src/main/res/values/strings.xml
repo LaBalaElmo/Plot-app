@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PlottingApp</string>
+    <string name="title_activity_main">PlottingApp</string>
+    <string name="package_name">com.tordoya.plottingapp</string>
+    <string name="custom_url_scheme">com.tordoya.plottingapp</string>
+</resources>
